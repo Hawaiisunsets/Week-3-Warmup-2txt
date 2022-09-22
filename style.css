@@ -2,6 +2,12 @@
     height: 100px;
 }
 
+.picture {
+    height: 150px;
+}
 
-
+#copyrightstatement {
+    font-style: italic;
+    font-size: 12px;
+}
 
